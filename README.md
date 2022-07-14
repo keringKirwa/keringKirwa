@@ -2,7 +2,8 @@
 ## 🌱 Currently a student at JKUAT,and  a Passionate Java Dveveloper. ✨
  💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit..
  📫 How to reach me: @kkirwa230@gmail.com
- ![image](https://user-images.githubusercontent.com/98757956/178951727-578853b9-262f-458e-b586-1f5bc29c2f21.png)
+ 
+ [image](https://user-images.githubusercontent.com/98757956/178951727-578853b9-262f-458e-b586-1f5bc29c2f21.png)
 
 
 
