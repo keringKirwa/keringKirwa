@@ -3,8 +3,10 @@
 💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit..
 📫 reach me via : @kkirwa230@gmail.com
 ### My Skills :
-![image](https://user-images.githubusercontent.com/98757956/178952629-a6be92e8-06c1-4679-9a79-12015138356a.png) 
+![image](https://user-images.githubusercontent.com/98757956/178953353-af16db57-0874-4392-bfe2-30268e130ee5.png)
+ 
 ![image](https://user-images.githubusercontent.com/98757956/178953167-280299df-8eba-4d0e-a084-f94308ab07ae.png)
+
 
 
  
