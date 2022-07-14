@@ -4,7 +4,8 @@
 📫 reach me via : @kkirwa230@gmail.com
 ### My Skills :
 ![image](https://user-images.githubusercontent.com/98757956/178952629-a6be92e8-06c1-4679-9a79-12015138356a.png) 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bgCqfXe-JtMafqqvSM4qHM683FJhdwGTU_GenOWkgWQcmurlgGp_qT3Ssd0qQlHcTZE&usqp=CAU
+![image](https://user-images.githubusercontent.com/98757956/178953167-280299df-8eba-4d0e-a084-f94308ab07ae.png)
+
 
  
  located in Nairobi,Kenya.
