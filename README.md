@@ -4,7 +4,8 @@
 📫 reach me via : @kkirwa230@gmail.co
 
 ### My Skills :
-![image](https://user-images.githubusercontent.com/98757956/178953353-af16db57-0874-4392-bfe2-30268e130ee5.png) ![image](https://user-images.githubusercontent.com/98757956/178953619-a5a038a4-b291-4c10-a646-5f9aa70390f7.png) ![image](https://user-images.githubusercontent.com/98757956/178954491-7b5aa69f-869b-4817-8b5d-e2444b8a0e77.png)
+![image](https://user-images.githubusercontent.com/98757956/178953353-af16db57-0874-4392-bfe2-30268e130ee5.png) ![image](https://user-images.githubusercontent.com/98757956/178953619-a5a038a4-b291-4c10-a646-5f9aa70390f7.png) ![image](https://user-images.githubusercontent.com/98757956/178954918-057cc352-e560-4e25-b4eb-b6a1389d2fa5.png)
+
  ![image](https://user-images.githubusercontent.com/98757956/178954107-8a1c6bcb-02e9-463f-ae2a-be8aedaca10d.png)
 
 
