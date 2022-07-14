@@ -3,7 +3,8 @@
 💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit..
 📫 reach me via : @kkirwa230@gmail.com
 ### My Skills :
-![image](https://user-images.githubusercontent.com/98757956/178952629-a6be92e8-06c1-4679-9a79-12015138356a.png)
+![image](https://user-images.githubusercontent.com/98757956/178952629-a6be92e8-06c1-4679-9a79-12015138356a.png) 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bgCqfXe-JtMafqqvSM4qHM683FJhdwGTU_GenOWkgWQcmurlgGp_qT3Ssd0qQlHcTZE&usqp=CAU
 
  
  located in Nairobi,Kenya.
