@@ -2,8 +2,10 @@
 ## 🌱 Currently a student at JKUAT,and  a Passionate Java Dveveloper. ✨
 💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit..
 📫 reach me via : @kkirwa230@gmail.com
+![image](https://user-images.githubusercontent.com/98757956/178952629-a6be92e8-06c1-4679-9a79-12015138356a.png)
+
  
- ![image](https://user-images.githubusercontent.com/98757956/178951727-578853b9-262f-458e-b586-1f5bc29c2f21.png) : located in Nairobi,Kenya.
+ located in Nairobi,Kenya.
 
 
 
