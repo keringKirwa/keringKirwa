@@ -1,4 +1,8 @@
-## Hi there 👋 am # Kirwa kelvin , a Passionate Java Dveveloper. 
+# Hi there 👋 am  Kirwa kelvin , a Passionate Java Dveveloper. ✨
+## 🌱 Currently a student at JKUAT...
+## 💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit...
+### 📫 How to reach me: @kkirwa230@gmail.com
+
 
 
 <!--
