@@ -1,7 +1,7 @@
 # Hi there 👋 am  Kirwa kelvin .
-## 🌱 Currently a student at JKUAT,and  a Passionate Java Dveveloper. ✨
+## 🌱 Currently a student at JKUAT,and  a Passionate Java Developer. ✨
 💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit..
-📫 reach me via : @kkirwa230@gmail.co
+📫 reach me via : @kkirwa230@gmail.com
 #### Follow this link to see my portfolio: https://kirwa-skyline.herokuapp.com/
 
 ### My Skills :
