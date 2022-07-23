@@ -2,7 +2,7 @@
 ## 🌱 Currently a student at JKUAT,and  a Passionate Java Developer. ✨
 💬 Ask me about Java , Spring Boot, ReactJs and Redux/redux toolkit..
 📫 reach me via : @kkirwa230@gmail.com
-#### Follow this link to see my portfolio: https://kirwa-skyline.herokuapp.com/
+#### Follow this link to see my portfolio: https://nivlek-portfolio-backend.vercel.app/
 
 ### My Skills :
 ![image](https://user-images.githubusercontent.com/98757956/178953353-af16db57-0874-4392-bfe2-30268e130ee5.png) ![image](https://user-images.githubusercontent.com/98757956/178953619-a5a038a4-b291-4c10-a646-5f9aa70390f7.png) ![image](https://user-images.githubusercontent.com/98757956/178955343-a9eb7dbe-e490-4f09-a5a2-fb4b513fc0e3.png)
