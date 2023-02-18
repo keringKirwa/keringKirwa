@@ -1,4 +1,4 @@
-![logo](https://github.com/keringKirwa/keringKirwa/blob/main/git.jpeg)
+![logo](https://github.com/keringKirwa/keringKirwa/blob/main/github-octocat.png)
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kelvin Kirwa Kering</h1>
 <h3 align="center">A passionate Flutter, java(Spring boot) , solidity/web3 and react web systems engineer.</h3>
