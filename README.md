@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin Kirwa Kering</h1>
 <h3 align="center">A passionate Flutter, java(Spring boot) , solidity/web3 and react web systems engineer.</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ffroilansulit&psig=AOvVaw3RkjEknQ15-MM4rKtT-3k3&ust=1676816377019000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCvmIGin_0CFQAAAAAdAAAAABAR">
 
 - 👨‍💻 All of my projects are available at [https://kkdev.vercel.app/](https://kkdev.vercel.app/)
 
