@@ -1,6 +1,13 @@
 # 💫 About Me: 
 <h1 align="center">Hi There, I'm Kelvin Kirwa Kering</h1>
-<h3 align="center">A passionate Flutter, java(Spring boot) , solidity/web3 and react web systems engineer from kenya.</h3>
+<h3 align="center">A passionate and a Enthusiastic systems engineer with expertise in : </h3>
+
+- Machine learning (TensorFlow and Keras)
+- Java (Specialistin Spring Boot web framework)
+- JavaScript (ReactJS specialist) and ,
+- Android development (Koltin and Jetpack compose)
+-  a newbie in Solidity (Blockchain)
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 
