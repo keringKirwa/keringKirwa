@@ -2,11 +2,11 @@
 <h1 align="center">Hi There, I'm Kelvin Kirwa Kering</h1>
 <h3 align="center">A passionate and a Enthusiastic systems engineer with expertise in : </h3>
 
-- Machine learning (TensorFlow and Keras)
-- Java (Specialistin Spring Boot web framework)
-- JavaScript (ReactJS specialist) and ,
-- Android development (Koltin and Jetpack compose)
--  a newbie in Solidity (Blockchain)
+- Machine Learning (TensorFlow and Keras)
+- Java (Specialist in SpringBoot web framework)
+- JavaScript (ReactJS) 
+- Android Development (Koltin and Jetpack compose) and , 
+- A novice in Solidity (Blockchain)
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
