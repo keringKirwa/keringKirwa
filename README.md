@@ -1,6 +1,6 @@
-# 💫 About Me: 
-<h1 align="center">Hi There, I'm Kelvin Kirwa Kering</h1>
-<h3 align="center">A passionate and a Enthusiastic systems engineer with expertise in : </h3>
+                  # 💫 About Me: 
+<h1 align="start">Hi There, I'm Kelvin Kirwa Kering</h1>
+<h3 align="start">A passionate and a Enthusiastic systems engineer with expertise in : </h3>
 
 - Machine Learning (TensorFlow and Keras)
 - Java (Specialist in SpringBoot web framework)
